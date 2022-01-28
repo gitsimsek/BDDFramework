@@ -22,6 +22,4 @@ public class CarvanaHomePage {
 
     @FindBy(xpath = "//a[@data-cv-test='headerFinanceLoanCalc']")
     public WebElement loanCalculator;
-
-
 }

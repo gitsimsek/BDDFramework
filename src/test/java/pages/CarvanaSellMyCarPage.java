@@ -25,7 +25,4 @@ public class CarvanaSellMyCarPage {
 
     @FindBy(xpath = "//button[@data-cv-test='heroGetMyOfferButton']")
     public WebElement getOffer;
-
-
-
 }

@@ -16,6 +16,4 @@ public class CarvanaHelpMeSearchQaPage {
 
     @FindBy(xpath = "//div[@data-qa='sub-heading']")
     public WebElement subHeading;
-
-
 }

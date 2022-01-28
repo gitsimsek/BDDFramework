@@ -36,4 +36,3 @@ Background:
     And user selects "Choose Your Loan Terms" as "60 Months"
     And user enters "What is Your Down Payment?" as "1,500"
     Then user should see the monthly payment as "154.00"
-

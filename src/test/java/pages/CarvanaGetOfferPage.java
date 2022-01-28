@@ -12,5 +12,4 @@ public class CarvanaGetOfferPage {
 
     @FindBy(xpath = "(//div[contains(@class,'TextField__Wrapper-qlseg8-0 fTSDos')]//div)[2]")
     public WebElement errorMessage;
-
 }
